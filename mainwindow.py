@@ -78,7 +78,7 @@ class MainWindow(QMainWindow):
                 self.ui.Tabla.setRowCount(1)
                 self.ui.Tabla.setColumnCount(10)
                 self.ui.Tabla.setHorizontalHeaderLabels(headers)
-                
+
                 Id_widget = QTableWidgetItem(str(particula.Id))
                 origen_x_widget = QTableWidgetItem(str(particula.origen_x))
                 origen_y_widget = QTableWidgetItem(str(particula. origen_y))
@@ -107,7 +107,7 @@ class MainWindow(QMainWindow):
             QMessageBox.warning(
                 self,
                 "Atencion",
-                f'El libro con el titulo "{Id}" no fue encontrado'
+                f'La particula con ID = "{Id}" no fue encontrado'
             )
 
 
