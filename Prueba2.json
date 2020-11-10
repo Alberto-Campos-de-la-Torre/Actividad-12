@@ -1,0 +1,24 @@
+[
+     {
+          "Id": 234234,
+          "origen_x": 71,
+          "origen_y": 112,
+          "destino_x": 138,
+          "destino_y": 86,
+          "velocidad": 0,
+          "rojo": 75,
+          "verde": 46,
+          "azul": 134
+     },
+     {
+          "Id": 123,
+          "origen_x": 0,
+          "origen_y": 0,
+          "destino_x": 0,
+          "destino_y": 0,
+          "velocidad": 0,
+          "rojo": 0,
+          "verde": 0,
+          "azul": 0
+     }
+]

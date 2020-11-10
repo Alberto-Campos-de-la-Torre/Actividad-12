@@ -1,0 +1,35 @@
+[
+     {
+          "Id": 2,
+          "origen_x": 201,
+          "origen_y": 210,
+          "destino_x": 190,
+          "destino_y": 169,
+          "velocidad": 7,
+          "rojo": 255,
+          "verde": 255,
+          "azul": 255
+     },
+     {
+          "Id": 1,
+          "origen_x": 99,
+          "origen_y": 160,
+          "destino_x": 52,
+          "destino_y": 154,
+          "velocidad": 0,
+          "rojo": 55,
+          "verde": 106,
+          "azul": 169
+     },
+     {
+          "Id": 3,
+          "origen_x": 158,
+          "origen_y": 89,
+          "destino_x": 108,
+          "destino_y": 65,
+          "velocidad": 0,
+          "rojo": 127,
+          "verde": 200,
+          "azul": 108
+     }
+]
